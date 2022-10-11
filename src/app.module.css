@@ -1,0 +1,12 @@
+.app {
+    height:100vh;
+    width:100vw;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:rgba(0, 0, 0, 0.9);
+}
+
+.app-container {
+    width:20%;
+}
